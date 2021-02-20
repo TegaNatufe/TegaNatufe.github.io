@@ -13,11 +13,16 @@ The features that we decided were must-haves included:
 * Send 3D models to destination 3D printers
 * Web portal interface to access the service
 
-Features that we decided were less important are:
+Features that we decided were less important were:
 * A smart search that would suggest models that fit user's previous requirements in terms of dimension and formats
 * Ability to manipulate view of models e.g. zooming in/out, rotation, flipping
 * A 'Remember Me' log in feature to reduce the number of log ins 
 
 ## Update 2
 
-Our team held virtual meetings with our clients in order gather their requirements for the project. This included finding out how they wanted access to the web portal to look like, as well as the parameters that could be used to search for the 3D models.
+Our team held virtual meetings with our clients on Microsoft Teams, in order gather their requirements for the project. This included finding out how they wanted access to the web portal to look like, as well as the parameters that could be used to search for the 3D models.
+
+## Update 3
+
+Our team was given a HCI (Human-computer interaction) assignment where we were tasked with designing and evaluating a prototype for your software system for a a 10-slide HCI report in PowerPoint. This included drawing a wireframe prototype in order to get an idea of the web portal's functionality and strucutre.
+
