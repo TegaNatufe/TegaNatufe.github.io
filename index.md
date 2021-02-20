@@ -24,9 +24,10 @@ Our team held virtual meetings with our clients on Microsoft Teams, in order gat
 
 ## Update 3
 
-Our team was given a HCI (Human-computer interaction) assignment where we were tasked with designing and evaluating a prototype for your software system for a a 10-slide HCI report in PowerPoint. This included drawing a wireframe prototype in order to get an idea of the web portal's functionality and strucutre. 
+Our team was given a HCI (Human-computer interaction) assignment where we were tasked with designing and evaluating a prototype for your software system for a a 10-slide HCI report in PowerPoint. This included drawing a wireframe prototype in order to get an idea of the web portal's functionality and strucutre, as well as drawing sketches of the interface.
 
-
+In this assignment we had to document the different stages of the development cycle. For example we wrote about how we discovered user requirements for the product.
+Furthermore, we also wrote about how we designed alternatives and see which early prototypes were better. We also documented our thought process behind the use case scenarios. Considering who our target users were and their personas was also important in our assignment.
 
 ![image](/media/PHOTO-2020-11-09-20-16-15.jpg)
 ![image](/media/IMG_00B1DBA5F01E-1.jpeg)
