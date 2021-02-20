@@ -27,3 +27,4 @@ Our team held virtual meetings with our clients on Microsoft Teams, in order gat
 Our team was given a HCI (Human-computer interaction) assignment where we were tasked with designing and evaluating a prototype for your software system for a a 10-slide HCI report in PowerPoint. This included drawing a wireframe prototype in order to get an idea of the web portal's functionality and strucutre.
 
 ![image](/media/PHOTO-2020-11-09-20-16-15.jpg)
+![image](/media/IMG_00B1DBA5F01E-1.jpeg)
