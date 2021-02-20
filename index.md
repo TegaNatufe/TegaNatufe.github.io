@@ -46,4 +46,11 @@ We found this meeting with the TA very helpful as it gave us a sense of directio
 
 ## Update 5
 
-We
+To get a better sense of the strucutre of our project, we drew UML diagrams and sketched the front end of the web protal.
+
+![image](/media/WhatsApp%20Image%202021-01-02%20at%2011.28.08%20AM%20(1).jpeg)
+![image](/media/WhatsApp%20Image%202021-01-02%20at%2011.28.08%20AM.jpeg)
+![image](/media/WhatsApp%20Image%202021-01-02%20at%2011.28.09%20AM%20(1).jpeg)
+![image](/media/WhatsApp%20Image%202021-01-02%20at%2011.28.09%20AM.jpeg)
+![image](/media/WhatsApp%20Image%202021-01-02%20at%2011.28.10%20AM.jpeg)
+![image](/media/WhatsApp%20Image%202021-01-02%20at%2011.28.11%20AM.jpeg)
