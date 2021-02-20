@@ -31,3 +31,15 @@ Furthermore, we also wrote about how we designed alternatives and see which earl
 
 ![image](/media/PHOTO-2020-11-09-20-16-15.jpg)
 ![image](/media/IMG_00B1DBA5F01E-1.jpeg)
+
+## Update 4
+
+Our team held a virtual meeting with our course teaching assistant (TA) on Microsoft Teams. We discussed the technical details of beginning the developemnt of our prototype. These details included: 
+
+* Putting great importance on the interface e.g. viewing 3D models
+* Finding a way to import 3D models
+* Comparing the advantages and disadvantages of using one solution over others
+* Having to consider both the front end and the back end sides of development
+* The early first prototype could just import models from the local drive, just to get something working
+
+We found this meeting with the TA very helpful as it gave us a sense of direction as to where to focus development on.
