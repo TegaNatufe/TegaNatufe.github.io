@@ -66,4 +66,10 @@ We developed the first working version of our 3D printing web service prototype.
  
 ## Update 7
 
-Documented up to 11/01/21 (so far)
+We went further in the development of our prototype, successfully connecting the client with the CMS, and we got the embedded 3D model html file to generate automatically on upload. All we need is a backend, with which we could send the URL and model meta data to. 
+
+![image](/media/update7-0.jpeg)
+
+
+
+![image](/media/update7-1.jpeg)
