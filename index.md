@@ -1,5 +1,7 @@
 # Welcome to the NHS 3D Printing Web Service Development Blog
 
+In this blog, our team - called Team 31, will document how the development of the 3D printing web portal for the NHS progresses. We'll document each stage, starting from the gathering requirements stage all the way to the final prototype or product.
+
 ## Update 1
 
 We created a MoSCoW document to give us a rough idea of what features are important and needed to be implemented, as well as the less important features.
@@ -24,7 +26,7 @@ Our team held virtual meetings with our clients on Microsoft Teams, in order gat
 
 ## Update 3
 
-Our team was given a HCI (Human-computer interaction) assignment where we were tasked with designing and evaluating a prototype for your software system for a a 10-slide HCI report in PowerPoint. This included drawing a wireframe prototype in order to get an idea of the web portal's functionality and strucutre, as well as drawing sketches of the interface.
+Our team was given a HCI (Human-computer interaction) assignment where we were tasked with designing and evaluating a prototype for your software system for a 10-slide HCI report in PowerPoint. This included drawing a wireframe prototype in order to get an idea of the web portal's functionality and structure, as well as drawing sketches of the interface.
 
 In this assignment we had to document the different stages of the development cycle. For example we wrote about how we discovered user requirements for the product.
 Furthermore, we also wrote about how we designed alternatives and see which early prototypes were better. We also documented our thought process behind the use case scenarios. Considering who our target users were and their personas was also important in our assignment.
@@ -34,7 +36,7 @@ Furthermore, we also wrote about how we designed alternatives and see which earl
 
 ## Update 4
 
-Our team held a virtual meeting with our course teaching assistant (TA) on Microsoft Teams. We discussed the technical details of beginning the developemnt of our prototype. These details included: 
+Our team held a virtual meeting with our course teaching assistant (TA) on Microsoft Teams. We discussed the technical details of beginning the development of our prototype. These details included: 
 
 * Putting great importance on the interface e.g. viewing 3D models
 * Finding a way to import 3D models
@@ -46,7 +48,7 @@ We found this meeting with the TA very helpful as it gave us a sense of directio
 
 ## Update 5
 
-To get a better sense of the strucutre of our project, we drew UML diagrams and sketched the front end of the web protal. We also started work on the backend, with the most important tasks being to create a 3D viewer page from a 3D file, and returning the link to that page so that it can be embedded in containers in the frontend.
+To get a better sense of the structure of our project, we drew UML diagrams and sketched the front end of the web portal. We also started work on the backend, with the most important tasks being to create a 3D viewer page from a 3D file and returning the link to that page so that it can be embedded in containers in the frontend.
 
 ![image](/media/WhatsApp%20Image%202021-01-02%20at%2011.28.08%20AM%20(1).jpeg)
 ![image](/media/WhatsApp%20Image%202021-01-02%20at%2011.28.08%20AM.jpeg)
@@ -54,3 +56,7 @@ To get a better sense of the strucutre of our project, we drew UML diagrams and 
 ![image](/media/WhatsApp%20Image%202021-01-02%20at%2011.28.09%20AM.jpeg)
 ![image](/media/WhatsApp%20Image%202021-01-02%20at%2011.28.10%20AM.jpeg)
 ![image](/media/WhatsApp%20Image%202021-01-02%20at%2011.28.11%20AM.jpeg)
+
+## Update 6 
+
+
