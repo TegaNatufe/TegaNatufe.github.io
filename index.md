@@ -70,6 +70,6 @@ We went further in the development of our prototype, successfully connecting the
 
 ![image](/media/update7-0.jpeg)
 
-
+On our web portal, when we tried to use embeddedURL as the html page for the preview, we got this erroneous response. 
 
 ![image](/media/update7-1.jpeg)
