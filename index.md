@@ -82,4 +82,5 @@ The first login page acts as a register, the web portal will then prompt you to 
 
 ![image](/media/updateVideo1.gif)
 
-
+![image](/media/update8-1.gif)
+![image](/media/update8-2.gif)
