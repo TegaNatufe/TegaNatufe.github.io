@@ -62,6 +62,7 @@ To get a better sense of the structure of our project, we drew UML diagrams and 
 We developed the first working version of our 3D printing web service prototype. Our team also did some research into what technologies to use, and we considered using Sketchfab. Sketchfab would allow us to upload 3D files and and store them, as well as generate a preview page - exactly what we needed. Additionally, we thought about using a table with meta data, so we wouldn't need to use file storage instead. We hosted this prototype on google servers instead of using other services such as Azure.
 
 ![image](/media/prototype1.jpeg)
+![image](/media/prototype.gif)
  
 ## Update 7
 
