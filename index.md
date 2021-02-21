@@ -77,3 +77,5 @@ On our web portal, when we tried to use embeddedURL as the html page for the pre
 ## Update 8
 
 We've made additional progress on our prototype. 
+
+![image](/media/updateVideo1.gif)
