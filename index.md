@@ -66,10 +66,14 @@ We developed the first working version of our 3D printing web service prototype.
  
 ## Update 7
 
-We went further in the development of our prototype, successfully connecting the client with the CMS, and we got the embedded 3D model html file to generate automatically on upload. All we need is a backend, with which we could send the URL and model meta data to. 
+We went further into the development of our prototype, successfully connecting the client with the CMS, and we got the embedded 3D model html file to generate automatically on upload. All we need is a backend, with which we could send the URL and model meta data to. 
 
 ![image](/media/update7-0.jpeg)
 
 On our web portal, when we tried to use embeddedURL as the html page for the preview, we got this erroneous response. 
 
 ![image](/media/update7-1.jpeg)
+
+## Update 8
+
+We've made additional progress on our prototype. 
