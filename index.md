@@ -82,11 +82,13 @@ The first login page acts as a register, the web portal will then prompt you to 
 
 ![image](/media/updateVideo1.gif)
 
-Funnel desc
+This shows a full funnel
 
 ![image](/media/update8-1.gif)
 ![image](/media/update8-2.gif)
 
 ## Update 9
+
+We designed a new UI for the web portal.
 
 ![image](/media/update9.jpeg)
