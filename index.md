@@ -46,7 +46,7 @@ We found this meeting with the TA very helpful as it gave us a sense of directio
 
 ## Update 5
 
-To get a better sense of the strucutre of our project, we drew UML diagrams and sketched the front end of the web protal. We also started work on the backend, with the most important tasks being to create a 3D viewer page from a 3D file, and returning the link to that page so it can be embedded in containers in the frontend.
+To get a better sense of the strucutre of our project, we drew UML diagrams and sketched the front end of the web protal. We also started work on the backend, with the most important tasks being to create a 3D viewer page from a 3D file, and returning the link to that page so that it can be embedded in containers in the frontend.
 
 ![image](/media/WhatsApp%20Image%202021-01-02%20at%2011.28.08%20AM%20(1).jpeg)
 ![image](/media/WhatsApp%20Image%202021-01-02%20at%2011.28.08%20AM.jpeg)
