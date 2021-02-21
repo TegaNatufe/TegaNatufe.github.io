@@ -59,4 +59,10 @@ To get a better sense of the structure of our project, we drew UML diagrams and 
 
 ## Update 6 
 
+We developed the first working version of our 3D printing web service prototype.
 
+![](/media/v1prototype.mp4)
+
+## Update 7
+
+Documented up to 11/01/21 (so far)
