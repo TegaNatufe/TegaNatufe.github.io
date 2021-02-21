@@ -82,5 +82,11 @@ The first login page acts as a register, the web portal will then prompt you to 
 
 ![image](/media/updateVideo1.gif)
 
+Funnel desc
+
 ![image](/media/update8-1.gif)
 ![image](/media/update8-2.gif)
+
+## Update 9
+
+![image](/media/update9.jpeg)
