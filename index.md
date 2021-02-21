@@ -78,6 +78,8 @@ On our web portal, when we tried to use embeddedURL as the html page for the pre
 
 We've made additional progress on our prototype. We implemented a Microsoft single sign-on feature, as requested by our clients at the NHS.
 
-The first login page acts as a register, the web portal will then prompt you to choose the UCL one when the people at the NHS try and log in. (This prompt didn't occur when we ran it because we already had an account.)
+The first login page acts as a register, the web portal will then prompt you to choose the UCL one when the people at the NHS try and log in. (This prompt didn't occur when we ran it because we already had an account.) We only intend for NHS and UCL users to be able to log into the web service.
 
 ![image](/media/updateVideo1.gif)
+
+
