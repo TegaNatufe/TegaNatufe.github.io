@@ -82,13 +82,13 @@ The first login page acts as a register, the web portal will then prompt you to 
 
 ![image](/media/updateVideo1.gif)
 
-This shows a full funnel
+This shows a full funnel through the NHS web app.
 
 ![image](/media/update8-1.gif)
 ![image](/media/update8-2.gif)
 
 ## Update 9
 
-We designed a new UI for the web portal.
+We designed a new UI for the web portal. We felt that this new user interface design made it easier for users to navigate the website. The colour and font of the text as well as the colour of the background in order to provide better colour contrast, and thus make it more readable.
 
 ![image](/media/update9.jpeg)
