@@ -91,4 +91,6 @@ This shows a full funnel through the NHS web app.
 
 We designed a new UI for the web portal. We felt that this new user interface design made it easier for users to navigate the website. The colour and font of the text as well as the colour of the background in order to provide better colour contrast, and thus make it more readable.
 
+In addition we used a lot more blue in this new design compared to the old design so that it would make the web portal look more like the other NHS webpages. We also incorporated more images to help bring the website to life.
+
 ![image](/media/update9.jpeg)
