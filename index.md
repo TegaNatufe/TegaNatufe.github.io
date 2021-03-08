@@ -94,3 +94,11 @@ We designed a new UI for the web portal. We felt that this new user interface de
 In addition we used a lot more blue in this new design compared to the old design so that it would make the web portal look more like the other NHS webpages. We also incorporated more images to help bring the website to life. If you look near the top of the website you can see we implemented a navigation bar to make it easier for users to access what part of the 3D printing web service they needed. Whether that was finding a 3D printing facility or searching for a clinical 3D model for example.
 
 ![image](/media/update9.jpeg)
+
+
+## Update 10
+
+We again redesigned the web portal's UI. Acting on feedback from our clients, we decided to make the web portal look more like the real NHS website. For example, we created an A-Z index section to enhance navigation of the website and make searching easier. We also made a website footer at the bottom of the page to provide quick access to important content and information such as contact details. 
+
+![image](/media/newui1.jpeg)
+![image](/media/newui2.jpeg)
