@@ -100,7 +100,7 @@ In addition we used a lot more blue in this new design compared to the old desig
 
 We again redesigned the web portal's UI. Acting on feedback from our clients, we decided to make the web portal look more like the real NHS website. For example, we created an A-Z index section to enhance navigation of the website and make searching easier. We also made a website footer at the bottom of the page to provide quick access to important links and information such as contact details.
 
-In the 'Find a 3D printing facility' feature, we integrated Google Maps to allow users to locate nearby 3D printing facilities. It would've been much less efficient if we had taken the choice to 'reinvent the wheel' when there were preexisting solutions. 
+In the 'Find a 3D printing facility' feature, we integrated Google Maps to allow users to locate nearby 3D printing facilities. It would've been less efficient if we 'reinvented the wheel' and created a new navigation feature, when there were already navigation solutions online. 
 
 ![image](/media/newui1.jpeg)
 ![image](/media/newui2.jpeg)
